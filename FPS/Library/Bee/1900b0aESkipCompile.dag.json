@@ -24,12 +24,21 @@
     {
       "Annotation": "BuildPlayerDataGenerator Library/BuildPlayerData/Editor/TypeDb-All.json",
       "DisplayName": "BuildPlayerDataGenerator TypeDb-All",
-      "Action": "\"C:/Program Files/Unity/Hub/Editor/2022.3.9f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.9f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"U:\\UnityProject\\FPS1\\FPS\\Assets\\Candice AI for Games\\Scripts\\Libs\\Candice Save System\\Plugins\\Mono.Data.Sqlite.dll\" -a=\"U:\\UnityProject\\FPS1\\FPS\\Library\\ScriptAssemblies\\Assembly-CSharp.dll\" -a=\"U:\\UnityProject\\FPS1\\FPS\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"U:\\UnityProject\\FPS1\\FPS\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"U:\\UnityProject\\FPS1\\FPS\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"U:\\UnityProject\\FPS1\\FPS\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"U:\\UnityProject\\FPS1\\FPS\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"U:\\UnityProject\\FPS1\\FPS\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"U:\\UnityProject\\FPS1\\FPS\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"U:\\UnityProject\\FPS1\\FPS\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\\nunit.framework.dll\" -a=\"U:\\UnityProject\\FPS1\\FPS\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.4\\lib\\ReportGenerator\\ReportGeneratorMerged.dll\" -a=\"U:\\UnityProject\\FPS1\\FPS\\Library\\PackageCache\\com.unity.visualscripting@1.9.0\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"U:\\UnityProject\\FPS1\\FPS\\Assets\\Candice AI for Games\\Scripts\\Libs\\Candice Save System\\Plugins\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.9f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.9f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.9f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.9f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.9f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"U:\\UnityProject\\FPS1\\FPS\\Library\\ScriptAssemblies\" -s=\"U:\\UnityProject\\FPS1\\FPS\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\" -s=\"U:\\UnityProject\\FPS1\\FPS\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.4\\lib\\ReportGenerator\" -s=\"U:\\UnityProject\\FPS1\\FPS\\Library\\PackageCache\\com.unity.visualscripting@1.9.0\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
+      "Action": "\"C:/Program Files/Unity/Hub/Editor/2022.3.9f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.9f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"U:\\ITMOSem4\\FPS\\Assets\\Photon\\PhotonLibs\\netstandard2.0\\Photon3Unity3D.dll\" -a=\"U:\\ITMOSem4\\FPS\\Assets\\Photon\\PhotonLibs\\WebSocket\\websocket-sharp.dll\" -a=\"U:\\ITMOSem4\\FPS\\Library\\ScriptAssemblies\\Assembly-CSharp.dll\" -a=\"U:\\ITMOSem4\\FPS\\Library\\ScriptAssemblies\\CFXRDemo.dll\" -a=\"U:\\ITMOSem4\\FPS\\Library\\ScriptAssemblies\\CFXRRuntime.dll\" -a=\"U:\\ITMOSem4\\FPS\\Library\\ScriptAssemblies\\KinoBloom.Runtime.dll\" -a=\"U:\\ITMOSem4\\FPS\\Library\\ScriptAssemblies\\PhotonChat.dll\" -a=\"U:\\ITMOSem4\\FPS\\Library\\ScriptAssemblies\\PhotonRealtime.dll\" -a=\"U:\\ITMOSem4\\FPS\\Library\\ScriptAssemblies\\PhotonUnityNetworking.Demos.dll\" -a=\"U:\\ITMOSem4\\FPS\\Library\\ScriptAssemblies\\PhotonUnityNetworking.dll\" -a=\"U:\\ITMOSem4\\FPS\\Library\\ScriptAssemblies\\PhotonUnityNetworking.Utilities.dll\" -a=\"U:\\ITMOSem4\\FPS\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"U:\\ITMOSem4\\FPS\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"U:\\ITMOSem4\\FPS\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"U:\\ITMOSem4\\FPS\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"U:\\ITMOSem4\\FPS\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"U:\\ITMOSem4\\FPS\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"U:\\ITMOSem4\\FPS\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"U:\\ITMOSem4\\FPS\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\\nunit.framework.dll\" -a=\"U:\\ITMOSem4\\FPS\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.4\\lib\\ReportGenerator\\ReportGeneratorMerged.dll\" -a=\"U:\\ITMOSem4\\FPS\\Library\\PackageCache\\com.unity.visualscripting@1.9.0\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"U:\\ITMOSem4\\FPS\\Assets\\Photon\\PhotonLibs\\netstandard2.0\" -s=\"U:\\ITMOSem4\\FPS\\Assets\\Photon\\PhotonLibs\\WebSocket\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.9f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.9f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.9f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.9f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.9f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"U:\\ITMOSem4\\FPS\\Library\\ScriptAssemblies\" -s=\"U:\\ITMOSem4\\FPS\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\" -s=\"U:\\ITMOSem4\\FPS\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.4\\lib\\ReportGenerator\" -s=\"U:\\ITMOSem4\\FPS\\Library\\PackageCache\\com.unity.visualscripting@1.9.0\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
       "Inputs": [
         "C:/Program Files/Unity/Hub/Editor/2022.3.9f1/Editor/Data/Tools/netcorerun/netcorerun.exe",
         "C:/Program Files/Unity/Hub/Editor/2022.3.9f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe",
-        "Assets/Candice AI for Games/Scripts/Libs/Candice Save System/Plugins/Mono.Data.Sqlite.dll",
+        "Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll",
+        "Assets/Photon/PhotonLibs/WebSocket/websocket-sharp.dll",
         "Library/ScriptAssemblies/Assembly-CSharp.dll",
+        "Library/ScriptAssemblies/CFXRDemo.dll",
+        "Library/ScriptAssemblies/CFXRRuntime.dll",
+        "Library/ScriptAssemblies/KinoBloom.Runtime.dll",
+        "Library/ScriptAssemblies/PhotonChat.dll",
+        "Library/ScriptAssemblies/PhotonRealtime.dll",
+        "Library/ScriptAssemblies/PhotonUnityNetworking.Demos.dll",
+        "Library/ScriptAssemblies/PhotonUnityNetworking.dll",
+        "Library/ScriptAssemblies/PhotonUnityNetworking.Utilities.dll",
         "Library/ScriptAssemblies/Unity.TextMeshPro.dll",
         "Library/ScriptAssemblies/Unity.Timeline.dll",
         "Library/ScriptAssemblies/Unity.VisualScripting.Core.dll",
@@ -170,13 +179,16 @@
   ],
   "StatSignatures": [
     {
-      "File": "Assets/Candice AI for Games/Scripts/Libs/Candice Save System/Plugins/Mono.Data.Sqlite.dll"
-    },
-    {
       "File": "Assets/csc.rsp"
     },
     {
       "File": "Assets/mcs.rsp"
+    },
+    {
+      "File": "Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll"
+    },
+    {
+      "File": "Assets/Photon/PhotonLibs/WebSocket/websocket-sharp.dll"
     },
     {
       "File": "Library/Bee/1900b0aESkipCompile-inputdata.json"
@@ -192,6 +204,30 @@
     },
     {
       "File": "Library/ScriptAssemblies/Assembly-CSharp.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/CFXRDemo.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/CFXRRuntime.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/KinoBloom.Runtime.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/PhotonChat.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/PhotonRealtime.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/PhotonUnityNetworking.Demos.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/PhotonUnityNetworking.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/PhotonUnityNetworking.Utilities.dll"
     },
     {
       "File": "Library/ScriptAssemblies/Unity.TextMeshPro.dll"
@@ -247,6 +283,6 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/1900b0aESkipCompile.dag.json",
-  "PayloadsFile": "U:/UnityProject/FPS1/FPS/Library/Bee/1900b0aESkipCompile.dag.payloads",
+  "PayloadsFile": "U:/ITMOSem4/FPS/Library/Bee/1900b0aESkipCompile.dag.payloads",
   "RelativePathToRoot": "../.."
 }
