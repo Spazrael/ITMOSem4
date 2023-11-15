@@ -17,7 +17,7 @@ public class Weapon : MonoBehaviour {
     void Update() {
         if (nextFire > 0)
             nextFire -= Time.deltaTime;
-        if (Input.GetButton("Fire1") && nextFire <= 0) {
+        if (SimpleInput.GetButton("Fire2") && nextFire <= 0) {
             nextFire = 1 / fireRate;
             Fire();
         }

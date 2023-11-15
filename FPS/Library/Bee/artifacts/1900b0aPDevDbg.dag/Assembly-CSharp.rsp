@@ -319,6 +319,7 @@
 -r:"Library/Bee/artifacts/1900b0aPDevDbg.dag/PhotonUnityNetworking.Demos.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aPDevDbg.dag/PhotonUnityNetworking.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aPDevDbg.dag/PhotonUnityNetworking.Utilities.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aPDevDbg.dag/SimpleInput.Runtime.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aPDevDbg.dag/Unity.TextMeshPro.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aPDevDbg.dag/Unity.Timeline.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aPDevDbg.dag/Unity.VisualScripting.Core.ref.dll"

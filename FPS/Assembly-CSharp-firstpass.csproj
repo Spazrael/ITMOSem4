@@ -41,14 +41,7 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Folder Include="Assets\Standard Assets\Effects" />
-     <Folder Include="Assets\Standard Assets" />
-     <Folder Include="Assets\Standard Assets\Effects\ToonShading\Textures" />
-     <Folder Include="Assets\Standard Assets\Effects\ToonShading\Materials" />
-     <Folder Include="Assets\Standard Assets\Effects\ToonShading" />
-     <None Include="Assets\Standard Assets\Effects\ToonShading\Shaders\ToonBasic.shader" />
-     <None Include="Assets\Standard Assets\Effects\ToonShading\Shaders\ToonBasicOutline.shader" />
-     <Folder Include="Assets\Standard Assets\Effects\ToonShading\Shaders" />
+     <Folder Include="Assets\Plugins" />
      <Reference Include="UnityEngine">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.9f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
      </Reference>

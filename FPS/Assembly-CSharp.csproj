@@ -1018,14 +1018,14 @@
      <Reference Include="Unity.VisualScripting.Core">
      <HintPath>U:\ITMOSem4\FPS\Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
      </Reference>
-     <Reference Include="UnityEngine.UI">
-     <HintPath>U:\ITMOSem4\FPS\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
-     </Reference>
      <Reference Include="Unity.VisualScripting.Core.Editor">
      <HintPath>U:\ITMOSem4\FPS\Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Rider.Editor">
      <HintPath>U:\ITMOSem4\FPS\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="UnityEngine.UI">
+     <HintPath>U:\ITMOSem4\FPS\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Flow">
      <HintPath>U:\ITMOSem4\FPS\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
@@ -1045,11 +1045,11 @@
      <Reference Include="Unity.Performance.Profile-Analyzer.Editor">
      <HintPath>U:\ITMOSem4\FPS\Library\ScriptAssemblies\Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.TestTools.CodeCoverage.Editor">
-     <HintPath>U:\ITMOSem4\FPS\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
-     </Reference>
      <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Model">
      <HintPath>U:\ITMOSem4\FPS\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.TestTools.CodeCoverage.Editor">
+     <HintPath>U:\ITMOSem4\FPS\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.State.Editor">
      <HintPath>U:\ITMOSem4\FPS\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
@@ -1116,6 +1116,10 @@
       <Project>{751165d1-3161-f8c9-a29f-29abadc1a45d}</Project>
       <Name>CFXREditor</Name>
     </ProjectReference>
+    <ProjectReference Include="SimpleInput.Editor.csproj">
+      <Project>{aeb0a31e-b165-47c3-9f5e-8bbe2fd6858f}</Project>
+      <Name>SimpleInput.Editor</Name>
+    </ProjectReference>
     <ProjectReference Include="CFXRDemo.csproj">
       <Project>{8a8a3bae-7837-a29e-63e7-d26779cc5f8a}</Project>
       <Name>CFXRDemo</Name>
@@ -1127,6 +1131,10 @@
     <ProjectReference Include="PhotonUnityNetworking.Utilities.csproj">
       <Project>{808e1109-2dd6-a679-9c12-5d2c9d3e16fc}</Project>
       <Name>PhotonUnityNetworking.Utilities</Name>
+    </ProjectReference>
+    <ProjectReference Include="SimpleInput.Runtime.csproj">
+      <Project>{dce96a2b-01e2-c52e-d1da-75a23c9ce737}</Project>
+      <Name>SimpleInput.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="PunDemos.DemoHubEditor.csproj">
       <Project>{748545b3-0164-f039-7cd9-8321fdf58fe4}</Project>
