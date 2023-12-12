@@ -1022,9 +1022,6 @@
      <Reference Include="Unity.VisualStudio.Editor">
      <HintPath>U:\ITMOSem4\FPS\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.Services.Core">
-     <HintPath>U:\ITMOSem4\FPS\Library\ScriptAssemblies\Unity.Services.Core.dll</HintPath>
-     </Reference>
      <Reference Include="UnityEditor.UI">
      <HintPath>U:\ITMOSem4\FPS\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
      </Reference>
@@ -1039,6 +1036,9 @@
      </Reference>
      <Reference Include="UnityEngine.UI">
      <HintPath>U:\ITMOSem4\FPS\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Services.Core">
+     <HintPath>U:\ITMOSem4\FPS\Library\ScriptAssemblies\Unity.Services.Core.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Flow">
      <HintPath>U:\ITMOSem4\FPS\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
@@ -1061,11 +1061,11 @@
      <Reference Include="Unity.Performance.Profile-Analyzer.Editor">
      <HintPath>U:\ITMOSem4\FPS\Library\ScriptAssemblies\Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Model">
-     <HintPath>U:\ITMOSem4\FPS\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
-     </Reference>
      <Reference Include="Unity.TestTools.CodeCoverage.Editor">
      <HintPath>U:\ITMOSem4\FPS\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Model">
+     <HintPath>U:\ITMOSem4\FPS\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Services.Analytics">
      <HintPath>U:\ITMOSem4\FPS\Library\ScriptAssemblies\Unity.Services.Analytics.dll</HintPath>
@@ -1079,9 +1079,6 @@
      <Reference Include="Unity.TextMeshPro.Editor">
      <HintPath>U:\ITMOSem4\FPS\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.Services.CloudDiagnostics">
-     <HintPath>U:\ITMOSem4\FPS\Library\ScriptAssemblies\Unity.Services.CloudDiagnostics.dll</HintPath>
-     </Reference>
      <Reference Include="Unity.Services.Core.Analytics">
      <HintPath>U:\ITMOSem4\FPS\Library\ScriptAssemblies\Unity.Services.Core.Analytics.dll</HintPath>
      </Reference>
@@ -1090,6 +1087,9 @@
      </Reference>
      <Reference Include="Unity.VSCode.Editor">
      <HintPath>U:\ITMOSem4\FPS\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Services.CloudDiagnostics">
+     <HintPath>U:\ITMOSem4\FPS\Library\ScriptAssemblies\Unity.Services.CloudDiagnostics.dll</HintPath>
      </Reference>
   </ItemGroup>
   <ItemGroup>
@@ -1113,13 +1113,13 @@
       <Project>{9ae881d1-adde-d9a3-cd74-14170ab5618f}</Project>
       <Name>PunDemos.DemoSlotcarEditor</Name>
     </ProjectReference>
-    <ProjectReference Include="PhotonRealtime.csproj">
-      <Project>{c06f335e-41f9-788e-3bac-24a87c1c7d3c}</Project>
-      <Name>PhotonRealtime</Name>
-    </ProjectReference>
     <ProjectReference Include="PhotonChat.csproj">
       <Project>{0ccb76e3-0459-8071-f75d-812e4a9dd705}</Project>
       <Name>PhotonChat</Name>
+    </ProjectReference>
+    <ProjectReference Include="PhotonRealtime.csproj">
+      <Project>{c06f335e-41f9-788e-3bac-24a87c1c7d3c}</Project>
+      <Name>PhotonRealtime</Name>
     </ProjectReference>
     <ProjectReference Include="ToonyColorsPro.Demo.Editor.csproj">
       <Project>{bb24c6cf-f358-bdaf-59d6-05bb210401f8}</Project>
